@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D42B&width=435&lines=Software+Developer;Experienced+.NET+Developer+;Specializing+in+Backend+Solutions)](https://git.io/typing-svg)
+
 As a passionate final-year BS(CS) student at Sir Syed University of Engineering and Technology (Class of 2025), I am deeply invested in mastering foundational computer science principles while honing my problem-solving skills. With a keen interest in algorithm development and hands-on experience in developing and maintaining web applications, I specialize in leveraging technologies like .NET Core, ASP.NET Core, TypeScript, React, and various web technologies such as Entity Framework and ASP.NET Web API. My expertise also extends to cloud services and databases, including Azure, SQL, and MongoDB, with a focus on deploying and managing applications on Microsoft Azure. Proficient in programming languages such as C#, Python, Java, C++, and JavaScript, I am dedicated to continuous learning and improvement, aiming to deliver high-quality solutions that drive business success and innovation. I am always open to networking, collaboration, and new opportunities to apply and expand my skills in real-world scenarios.
 
 
