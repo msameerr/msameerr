@@ -1,3 +1,5 @@
+![sameer github banner](https://github.com/user-attachments/assets/c5f7363b-8a37-4d0a-b5d7-98ae24345248)
+
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D42B&width=435&lines=Software+Developer;Experienced+.NET+Developer+;Specializing+in+Backend+Solutions)](https://git.io/typing-svg)
 
